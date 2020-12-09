@@ -1,6 +1,6 @@
 ### Hi 👋
 
-[Ask me a question](https://github.com/brettinternet/brettinternet/issues/new)
+[Ask me a question](https://github.com/brettinternet/brettinternet/discussions/new)
 
 <!-- Employers: [resume.pdf](https://github.com/brettinternet/cv/blob/master/resume.pdf) | [cv.pdf](https://github.com/brettinternet/cv/blob/master/cv.pdf) -->
 
